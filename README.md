@@ -16,7 +16,7 @@ Sales Analyzer is a comprehensive web application that provides insights into pr
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/vikashkrdeveloper/sales-analyzer.git
+    git clone https://github.com/saidul-122/sales-analysis.git
     ```
 
 2. **Navigate to the Project Directory**
@@ -134,4 +134,4 @@ This project is licensed under the MIT License.
 
 ---
 
-For further information or assistance, please get in touch with the developer at [vikashjjp728@gmail.com].
+For further information or assistance, please get in touch with the developer at [sh00348@gmail.com].
