@@ -127,11 +127,6 @@ Generate
 - **APEXCHARTS**: React package for giving a chart component.
 - **NextUI**: NextUi package for giving a frontend component.
 
-
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 For further information or assistance, please get in touch with the developer at [sh00348@gmail.com].
